@@ -1,0 +1,15 @@
+[
+    {
+      "id": 1,
+      "role": "Software Development Engineer - Intern",
+      "organisation":"Intellect Design Arena",
+      "startDate": "Jan, 2024",
+      "endDate": "July, 2024",
+      "location": "Chennai, India",
+      "experiences": [
+        "Worked on Banking  System",
+        "Helped to create Api and Ui"
+      ],
+      "imageSrc": "company/netflix.png"
+    }
+  ]
